@@ -4,7 +4,7 @@
 
 ### **Project 5**
 
-In this project we had to build a [Generative Adversarial Network](https://en.wikipedia.org/wiki/Generative_adversarial_networks) that can generate novel faces when trained on the [CelebFaces Attributes Dataset (CelebA)](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html). The project was written in Python (on a [_Jupyter Notebook_](https://github.com/HaraldoFilho/DLND-face-generation/blob/master/dlnd_face_generation.ipynb)) using the libraries _numpy_, _matplotlib_, _glob_ and _tensorflow_, running on an _Anaconda_ environment.
+In this project we had to build a [Generative Adversarial Network](https://en.wikipedia.org/wiki/Generative_adversarial_networks) that can generate novel faces when trained on the [CelebFaces Attributes Dataset (CelebA)](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html). 
 
 #### Topics covered
 
